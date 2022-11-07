@@ -2,8 +2,8 @@
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Javascript.
 - 📫 How to reach me eyas.hm7@gmail.com
-- 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I'm a cook.
+- ⚡ Pronouns: He/Him.
+- 😄 Fun fact: I'm a cook.
 
 
 <!---
