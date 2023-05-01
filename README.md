@@ -1,6 +1,6 @@
 - 👋 Hi there, I’m Eyas Hamad.
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning React.
 - 📫 How to reach me eyas.hm7@gmail.com
 - ⚡ Pronouns: He/Him.
 - 😄 Fun fact: I'm a cook.
